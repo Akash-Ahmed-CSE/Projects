@@ -1,0 +1,12 @@
+Algorithm Name,Accuracy Score (%),Jaccard Score (%),Cross Validated Score (%),AUC Score (%),Misclassification (%),Mean Absolute Error (%),Mean Squared Error (%),Standard Deviation
+Support Vector Machines,93.46,83.87,93.53,92.95,6.540000000000006,6.54,6.54,--
+KNN,88.62,74.23,87.71,88.43,11.379999999999995,11.38,11.38,--
+Logistic Regression,94.04,85.14,94.1,93.5,5.959999999999994,5.96,5.96,1.23
+Random Forest,97.38,93.23,97.52,97.18,2.6200000000000045,2.62,2.62,0.1
+Naive Bayes,86.0,71.5,85.45,87.6,14.0,14.0,14.0,--
+Perceptron,89.06,74.35,88.65,88.21,10.939999999999998,10.94,10.94,--
+Stochastic Gradient Decent,93.46,83.91,93.63,93.0,6.540000000000006,6.54,6.54,--
+Linear SVC,93.75,84.4,93.81,93.08,6.25,6.25,6.25,--
+Decision Tree,98.01,94.83,98.52,97.89,1.9899999999999949,1.99,1.99,0.15
+AdaBoost Classifier,98.11,94.99,98.12,97.66,1.8900000000000006,1.89,1.89,0.1
+XGBoost Classifier,98.55,96.14,98.97,98.21,1.4500000000000028,1.45,1.45,0.1
