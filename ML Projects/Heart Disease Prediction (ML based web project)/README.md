@@ -9,6 +9,8 @@ Here the accuraccy was 85.69%.
 Pease find th evisual site of the web interface.
 
 # Input site
-
+![](Images/Screenshot_1.png)
 
 # Outpur site
+![](Images/Screenshot_2.png)
+![](Images/Screenshot_3.png)
